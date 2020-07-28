@@ -4,6 +4,8 @@
 '''
 - There are 20 items in this assignment.
 - Each one is worth 5 points
+- DO NOT DELETE OR REMOVE ANY OF THE COMMENTS BELOW
+- DO NOT DELETE OR REMOVE ANY OF THE COMMENTS BELOW
 '''
 
 # Make sure you changed Line 1 to be your first and last name (5 points)
