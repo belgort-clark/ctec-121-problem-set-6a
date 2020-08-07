@@ -69,7 +69,7 @@ aRandomSentence = "I like turtles especially green ones"
 # Using the aRandomSentence variable, use the .split() string method to create a list called sentenceWords (5 points)
 
 
-# Using the aRandomSentence variable and a loop, print out the length of each word. You will first need to split the sentence into a list (5 points)
+# Using the sentenceWords variable and a loop, print out the length of each word. You will first need to split the sentence into a list (5 points)
 
 
 # Write a for loop to print out each of the words in the sentenceWords list (5 points)
